@@ -1,6 +1,10 @@
 * [引言](/README.md)
-* **麦克风相关**
-    * [麦克风阵列相关](/mic/mai_ke_feng_zhen_lie_xiang_guan.md)
-    * [无线麦克风分类](/mic/wu_xian_mai_ke_feng_fen_lei.md)
-    * [DSP芯片](/mic/dsp_chip.md)
-    * [XMOS](/mic/xmos.md)
+* **麦克风**
+  * [麦克风阵列相关](/mic/mai_ke_feng_zhen_lie_xiang_guan.md)
+  * [无线麦克风分类](/mic/wu_xian_mai_ke_feng_fen_lei.md)
+  * [麦克风相关术语](/mic/mai_ke_feng_xiang_guan_shu_yu.md)
+  * [DSP芯片](/mic/dsp_chip.md)
+  * [XMOS](/mic/xmos.md)
+  * [麦克风测评方法](/mic/mai_ke_feng_ce_ping_fang_fa.md)
+* **VP9**
+    * [H.264、H.265、VP8、VP9相关](/vp9/h265_vs_vp9.md)
