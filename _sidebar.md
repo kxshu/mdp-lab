@@ -9,4 +9,4 @@
 * **VP9**
   * [H.264、H.265、VP8、VP9相关](/vp9/h265_vs_vp9.md)
 * **无线投屏**
-  * [Miracast、DLNA、AirPlay简介]
+  * [Miracast、DLNA、AirPlay简介](/cast/miracast_dlna_airplay.md)
