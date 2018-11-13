@@ -1,16 +1,19 @@
 # Free Conference Calls
 
 These started out for audio dial-in only. Some providers of free conference call services have expanded their offerings to include web conferencing. Of these, the one I recommend is the first one listed below. It offers the most [features](https://www.freeconferencecall.com/features) for free. 
-* Recommended: [FreeConferenceCall.com](https://www.freeconferencecall.com/)
-* Other alternatives with extended features
-1. [FreeConference.com](https://www.freeconference.com/)
-2. [Join Me](https://www.join.me/solutions/free-conference-call)
-3. [Totally Free Conference Calls](http://www.totallyfreeconferencecalls.com/)
-* Audio only
-1. [Free Conference Calling](http://www.freeconferencecalling.com/)
-2. [Free Conference USA](http://freeconferenceusa.com/)
 
-Resources
+* Recommended: 
+    1. [FreeConferenceCall.com](https://www.freeconferencecall.com/)
+* Other alternatives with extended features
+    1. [FreeConference.com](https://www.freeconference.com/)
+    2. [Join Me](https://www.join.me/solutions/free-conference-call)
+    3. [Totally Free Conference Calls](http://www.totallyfreeconferencecalls.com/)
+* Audio only
+    1. [Free Conference Calling](http://www.freeconferencecalling.com/)
+    2. [Free Conference USA](http://freeconferenceusa.com/)
+
+## Resources
+
 1. [Top Web Conferencing Software Products](http://www.capterra.com/web-conferencing-software/) by Capterra
 2. [The Best Video Conferencing Software of 2017](http://www.pcmag.com/article2/0,2817,2388678,00.asp) by Juan Martinez and Molly K. McLaughlin
 3. [Best Web Conferencing Software](https://www.g2crowd.com/categories/web-conferencing) by G2 Crowd
@@ -29,7 +32,8 @@ Resources
 16. [Whiteboard Collaboration](https://www.quora.com/How-can-I-collaborate-on-a-physical-whiteboard-with-remote-teammates)
 17. [The 10 Best Online Whiteboards with Realtime Collaboration](https://getvoip.com/blog/2016/09/14/online-whiteboard-collaboration/)
 
-Books
+## Books
+
 1. [Virtual Meetings](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=virtual+meetings&rh=n%3A283155%2Ck%3Avirtual+meetings)
 2. [Web Conferencing](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=web+conferencing)
 3. [Video Conferencing](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=video+conferencing&rh=n%3A283155%2Ck%3Avideo+conferencing)
