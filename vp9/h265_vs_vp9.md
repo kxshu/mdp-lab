@@ -61,19 +61,19 @@ H.265、VP9 与上一代视频编码标准相比在编码效率上均提升了 5
 
 **编码质量：**
 
- ![图片: ](https://images-cdn.shimo.im/buhamWQpEDEqhznG/1.jpg)
+ ![图片: ](http://images-cdn.shimo.im/buhamWQpEDEqhznG/1.jpg)
 
 上图为 H.265 与 VP9 编码质量的对比测试，数值越小，则表示编码质量越好。从对比中我们发现 H.265、VP9 两者的差别并不大，整体平均分只差了 0.001，在实际应用中几乎不存在差异。
 
 **编码时间:**
 
-![图片: ](https://images-cdn.shimo.im/fh6wTtzWTY8RPDy9/2.jpg)
+![图片: ](http://images-cdn.shimo.im/fh6wTtzWTY8RPDy9/2.jpg)
 
 在编码时间对比中，VP9 完胜 H.265，无论是 4K 视频还是 1920、1280 分辨率的视频，VP9 的编码耗时都比 H.265 短很多。
 
 **CPU 消耗：**
 
-![图片: ](https://images-cdn.shimo.im/F4QUiL3ak8ULsHaL/3.jpg)
+![图片: ](http://images-cdn.shimo.im/F4QUiL3ak8ULsHaL/3.jpg)
 
 上图是 H.265 和 VP9 在 Dell Precision 390 工作站上播放 CPU 消耗测试，VP9 在 Firefox 上 CPU 解码效率比 Chrome 更高效。而 H.265 在 DivX 上远远比 VLC Player 高效。将两个编码标准的数据进行对比之后，H.265 的解码效率略高于 VP9 。
 
@@ -82,7 +82,7 @@ H.265、VP9 与上一代视频编码标准相比在编码效率上均提升了 5
 不论是 H.265 还是 VP9，都有着其优势领域，用户可以根据实际的应用场景选择使用的格式。
 目前，又拍云的媒体处理已同时支持 H.265 和 VP9 视频编码标准。客户在进行音视频处理时，只需要把视频编码格式设置成 libx265 或 libvpx-vp9，即可实现视频编码成 H.265 或 VP9。
 
-![图片: ](https://images-cdn.shimo.im/PNQd02RwrnYWITEM/4.png)
+![图片: ](http://images-cdn.shimo.im/PNQd02RwrnYWITEM/4.png)
 
 
 ## 参考资料

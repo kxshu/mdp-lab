@@ -10,8 +10,8 @@
 ## 麦克风类型
 麦克风的类型（micType），有全指向型（omnidirectional），心型指向（cardioid），亚心型指向（subcardioid，不知道咋翻译，请见谅） , 超心型（hypercardioid）, 双向型（bidirectional）
 
-![图片](https://images-cdn.shimo.im/ZZUYmn5ecZkqgnNn/59544c62c8fc5.jpeg)
+![图片](http://images-cdn.shimo.im/ZZUYmn5ecZkqgnNn/59544c62c8fc5.jpeg)
 
-![avatar](https://images-cdn.shimo.im/CeClvMA2hOoZ219Q/20180324103230757.png)
+![avatar](http://images-cdn.shimo.im/CeClvMA2hOoZ219Q/20180324103230757.png)
 
 

@@ -11,7 +11,7 @@ AirPlay具备与DLNA所没有的镜像功能，这一功能叫AirPlay镜像，�
 
 另外AirPlay镜像最牛地方是它可以实现双屏游戏，让你的游戏有更多的交互。比如，电视里显示的是游戏画面，而iPad上显示的是比赛的路线图。
 
-![图片: ](https://images-cdn.shimo.im/HUXgYlKVEhMU0QOl/1.jpg)
+![图片: ](http://images-cdn.shimo.im/HUXgYlKVEhMU0QOl/1.jpg)
 
 目前，苹果的AirPlay更多的只适用于认证过的苹果设备，目前支持这一技术的主要是苹果自己的设备包括了iPad、iPhone、Apple TV等，此外还有一些苹果授权的合作伙伴的设备，如向Pioneer和Sony提供技术授权的音响。
 
@@ -40,7 +40,7 @@ Google Nexus4：这款手机是标准的Android4.2,是Google Android4.2系统的
 
 步步高VIVO Xplay，SONY LT35、SONYLT36，TCL S850、TCLY900，这几款手机的功能规格，已经注明支持无线显示功能。 
 
-![图片: ](https://images-cdn.shimo.im/b6CMQUUBgcctkThP/3.jpg)
+![图片: ](http://images-cdn.shimo.im/b6CMQUUBgcctkThP/3.jpg)
 
 ## DLNA和Miracast区别
 
@@ -51,7 +51,7 @@ Miracast是实时的，它可以实时传输源端(Source)的输出。源端任�
 NPD对人们对无限同屏技术认知度的调查：
 40% of smartphone and tablet owners know about screen mirroring, but awareness is growing
 
-![图片: ](https://images-cdn.shimo.im/fq0D3jGgR8cpaTnx/4.jpg)
+![图片: ](http://images-cdn.shimo.im/fq0D3jGgR8cpaTnx/4.jpg)
 
-![图片: ](https://images-cdn.shimo.im/N3Txo6H0aiUL617S/5.jpg)
-![图片: ](https://images-cdn.shimo.im/6CyH7MrqqG4r4GwW/6.jpg)
+![图片: ](http://images-cdn.shimo.im/N3Txo6H0aiUL617S/5.jpg)
+![图片: ](http://images-cdn.shimo.im/6CyH7MrqqG4r4GwW/6.jpg)

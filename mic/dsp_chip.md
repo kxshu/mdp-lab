@@ -22,8 +22,8 @@ DSP 芯片的内部采用程序和数据分开的哈佛结构，具有专门的�
 
 魂芯 1 号达到国际主流 DSP 芯片水平，与美国模拟器件公司（ADI） TS201 芯片新能相近。 TS201 是 ADI 公司的一款主流 DSP 芯片， 它集成了定点和浮点计算功能的高速 DSP。该处理器广泛应用于视频、通信市场和国防军事装备中，适合于大数据量实时处理的应用领域。
 
-![图片: ](https://images-cdn.shimo.im/3TK8n225UaIwm4kQ/魂芯1号对比ADITS201_1.jpg)
-![2](https://images-cdn.shimo.im/GVR1JLmKSHYSJrNf/魂芯1号对比ADITS201_2.png)
+![图片: ](http://images-cdn.shimo.im/3TK8n225UaIwm4kQ/魂芯1号对比ADITS201_1.jpg)
+![2](http://images-cdn.shimo.im/GVR1JLmKSHYSJrNf/魂芯1号对比ADITS201_2.png)
 
 ## FPGA
 
@@ -48,8 +48,8 @@ DSP 对较低速的事件串联执行， 但是处理前可能会有些时延，
  
 DSP 是按照指令的顺序流来编程的，而 FPGA 是以框图方式编程的， 这样很容易看数据流。
 
-![1](https://images-cdn.shimo.im/u27d64J2rCgauNNf/FPGA和DSP的区别.jpg)
-![2](https://images-cdn.shimo.im/XgQg6FMcbRYYjmUW/FPGA和DSP的区别2.jpg)
+![1](http://images-cdn.shimo.im/u27d64J2rCgauNNf/FPGA和DSP的区别.jpg)
+![2](http://images-cdn.shimo.im/XgQg6FMcbRYYjmUW/FPGA和DSP的区别2.jpg)
 
 在既强调结构灵活、 通用性，以及处理复杂算法的需求下，往往将 DSP 和 FPGA 联合起来，采用 DSP+FPGA 结构， 或者将 DSP 模块嵌入的 FPGA 芯片中，这也是未来设计的一种趋势。
 
