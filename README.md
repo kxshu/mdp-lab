@@ -7,6 +7,6 @@
 <p>test</p>
 ```
 
-[附件](/attch/1.docs)
+[附件](/attch/1.docx)
 
 
