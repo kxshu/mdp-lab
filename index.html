@@ -50,6 +50,7 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/jquery/jquery.production.min.js"></script>
   <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
   <script>
     const gitment = new Gitment({
@@ -70,8 +71,7 @@
     //gitment.render(document.getElementById('main'))
     // or
     //document.body.appendChild(gitment.render())
-    var div = document.createElement("div"); 
-    document.getElementById('main').appendChild(div);
+    $("#main").append(gitment.render())
 
 
   </script>
