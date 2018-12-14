@@ -95,3 +95,7 @@ ELK搜索条件，常用语法：
 ```
 doc['createTime'].date.hourOfDay
 ```
+
+## 最终效果
+
+![](2018-12-14-19-26-46.png)
