@@ -8,7 +8,6 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
 </head>
 
 <body>
@@ -50,31 +49,7 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
-  <script src="//unpkg.com/jquery/jquery.production.min.js"></script>
-  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-  <script>
-    const gitment = new Gitment({
-      id: 'x.jier.in', // optional
-      owner: 'kxshu',
-      repo: 'mdp-lab',
-      oauth: {
-        client_id: '3e5934ee7615517d8769',
-        client_secret: '4786f4ca7290d3f2b0b0372f81aee7a782257ccc',
-      },
-      // ...
-      // For more available options, check out the documentation below
-    })
 
-    //gitment.render('comments')
-    // or
-    // gitment.render(document.getElementById('comments'))
-    //gitment.render(document.getElementById('main'))
-    // or
-    //document.body.appendChild(gitment.render())
-    $(function () {
-      $("#main").append(gitment.render())
-    });
-  </script>
 </body>
 
 </html>
