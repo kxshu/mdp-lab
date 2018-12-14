@@ -2,9 +2,9 @@
 
 > 需求：
 
-```
+```mermaid
 graph TD;
 A-->B;
-
 ```
+
 
