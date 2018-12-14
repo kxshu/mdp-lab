@@ -20,4 +20,4 @@
   * [The major telepresence providers](/meeting/the_major_telepresence_providers.md)
   * [Free Conference Calls](/meeting/free_conference_calls.md)
 * **会议室**
-  * [elk guide](/elk/guide.me)
+  * [elk guide](/elk/guide.md)
