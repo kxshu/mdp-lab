@@ -23,3 +23,5 @@
   * [Free Conference Calls](./meeting/free_conference_calls.md)
 * **ELK**
   * [elk guide](./elk/guide.md)
+* **5G**
+  * [第一次有人把5G讲的这么简单明了](./5g/base.md)
